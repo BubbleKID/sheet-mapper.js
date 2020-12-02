@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/BubbleKID/sheet-mapping.js/issues"
   },
-  "homepage": "https://github.com/BubbleKID/sheet-mapping.js#readme"
+  "homepage": "https://github.com/BubbleKID/sheet-mapping.js#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0"
+  }
 }
